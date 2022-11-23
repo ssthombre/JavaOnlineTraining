@@ -1,0 +1,25 @@
+package com.yash.OopsAssignment.Question5;
+
+public class A extends CalcAbs {
+
+	void sum(int a, int b) {
+		// TODO Auto-generated method stub
+
+	}
+
+	void sub(int a, int b) {
+		// TODO Auto-generated method stub
+
+	}
+
+	void mul(int a, int b) {
+		// TODO Auto-generated method stub
+
+	}
+
+	void div(int a, int b) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
